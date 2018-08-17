@@ -1,0 +1,40 @@
+#justin{
+color: #FFFFFF;
+	text-decoration: underline;
+	font-size: 40px;
+text-align: center;}
+body{
+background-color: #A0EADE;
+}
+.qwertyuiop{
+list-style-type: none;
+margin: 0;
+padding: 0;
+padding-left: 500px;
+}
+.qwertyuiop1{
+float: left;
+}
+
+.hi{
+width: 100%;
+background-color: #1B998B;
+text-align: center;
+font-size: 32px;
+padding: 10px;
+}
+.hi:visited {
+	color: #40E0D0;
+}
+
+.hi:visited {
+	color: #40E0D0;
+}
+.hi:link { 
+color: #40E0D0;
+}
+#Rustin{
+font-size: 32px;
+color: #157F1F;
+font-family: 'Merriweather', serif;
+}
